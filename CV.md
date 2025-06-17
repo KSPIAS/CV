@@ -1,74 +1,76 @@
-# ประวัติส่วนตัว
+# Kongpop Anankul
 
-**ชื่อ:** สมชาย ใจดี  
-**ตำแหน่งที่ต้องการ:** Full Stack Developer  
-**อีเมล:** somchai@example.com  
-**โทรศัพท์:** 091-234-5678  
-**GitHub:** [github.com/somchai](https://github.com/somchai)  
-**LinkedIn:** [linkedin.com/in/somchai](https://linkedin.com/in/somchai)  
+📧 kongpop.dev@gmail.com  
+📱 +66 80-888-1234  
+🌐 [github.com/kongpopdev](https://github.com/kongpopdev)  
+💼 [linkedin.com/in/kongpopdev](https://linkedin.com/in/kongpopdev)
 
 ---
 
-## 🎯 เป้าหมายในการทำงาน
+## 👨‍💻 About Me
 
-ต้องการร่วมงานกับทีมที่ใช้เทคโนโลยีทันสมัย มีวัฒนธรรมการทำงานที่ส่งเสริมการเรียนรู้ เพื่อพัฒนา Software ที่สร้างคุณค่าให้กับผู้ใช้
-
----
-
-## 🧠 ทักษะหลัก (Technical Skills)
-
-- **ภาษาโปรแกรม:** JavaScript, Python, HTML, CSS, SQL  
-- **Framework & Tools:** React, Node.js, Django, Bootstrap  
-- **Dev Tools:** Git, GitHub, VS Code, Postman  
-- **Database:** MySQL, MongoDB  
-- **ภาษาอังกฤษ:** ฟัง-พูด-อ่าน-เขียน ระดับดี
+DevOps Engineer with a passion for cloud infrastructure, automation, and CI/CD. Experienced in managing Linux servers, deploying containerized applications, and maintaining high-availability systems using tools like Docker, Kubernetes, and GitHub Actions.
 
 ---
 
-## 🧳 ประสบการณ์ทำงาน
+## 🛠️ Technical Skills
 
-### 💼 บริษัท เทคโนไทย จำกัด (TechnoThai Co., Ltd.)  
-**ตำแหน่ง:** Junior Web Developer  
-**ระยะเวลา:** มกราคม 2023 – ปัจจุบัน  
-**หน้าที่ความรับผิดชอบ:**
-- พัฒนาเว็บไซต์ด้วย React และ Node.js
-- ออกแบบ RESTful API ร่วมกับทีม Backend
-- เขียน Unit Test ด้วย Jest และใช้ Git ในการจัดการโค้ด
-- ทำงานร่วมกับ UX/UI Designer เพื่อให้ตรงตามความต้องการของผู้ใช้
+- **Languages:** Bash, Python, YAML  
+- **DevOps Tools:** Docker, Kubernetes, GitHub Actions, Jenkins, Helm  
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM), GCP (basic)  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+- **Version Control:** Git, GitHub, GitLab CI
 
 ---
 
-## 🛠️ โปรเจกต์ที่เคยทำ (Personal Projects)
+## 💼 Work Experience
 
-### 📱 ระบบจัดการร้านกาแฟ CoffeePOS  
-- สร้างระบบขายหน้าร้านด้วย Python + Flask  
-- ใช้ SQLite เป็นฐานข้อมูล  
-- รองรับการสั่งซื้อ การออกใบเสร็จ และสรุปยอดขาย
+### **DevOps Engineer**  
+**CloudProTech Co., Ltd.** — *Jul 2022 – Present*  
+- Designed and maintained CI/CD pipelines for multiple microservices using GitHub Actions and Jenkins  
+- Managed production Kubernetes clusters on AWS with auto-scaling and monitoring  
+- Implemented infrastructure as code (Terraform) for provisioning and deployment  
+- Ensured cloud security by configuring IAM roles and policies
 
-### 🖥️ Portfolio Website  
-- สร้างเว็บส่วนตัวด้วย HTML/CSS + JavaScript  
-- โฮสต์บน GitHub Pages  
-- ลิงก์: [https://somchai.github.io](https://somchai.github.io)
-
----
-
-## 🎓 การศึกษา
-
-**วท.บ. วิทยาการคอมพิวเตอร์**  
-มหาวิทยาลัยเทคโนโลยีมหานคร  
-ปีที่จบ: 2022  
-เกรดเฉลี่ย: 3.45
+### **System Administrator Intern**  
+**NetSecure Co., Ltd.** — *Jan 2022 – Mar 2022*  
+- Wrote shell scripts to automate daily server maintenance tasks  
+- Assisted in Docker container setup for staging environments  
+- Learned deployment practices and participated in CI testing pipelines
 
 ---
 
-## 🏆 รางวัล / ความสำเร็จ
+## 🎓 Education
 
-- รางวัลรองชนะเลิศ Hackathon มหาวิทยาลัย (2021)  
-- ได้รับทุนเรียนดี 2 ปีซ้อน (2020–2021)
+**Bachelor of Engineering in Computer Engineering**  
+Chiang Mai University, Thailand (2018 – 2022)  
+**GPA:** 3.55 / 4.00
 
 ---
 
-## 📌 อื่น ๆ
+## 💡 Projects
 
-- ชอบเรียนรู้เทคโนโลยีใหม่ ๆ เช่น Docker และ TypeScript  
-- มีประสบการณ์ใช้ GitHub ร่วมกับทีมในโปรเจกต์กลุ่ม  
+### **KubeDeploy Dashboard**  
+A dashboard to visualize the deployment status of services running on Kubernetes clusters.  
+- Built with React.js and Chart.js  
+- Integrated Prometheus API for real-time monitoring data
+
+### **Dotfiles Automation**  
+A set of shell scripts for setting up development environments on Ubuntu and Arch Linux.  
+- Included package installations, theme configurations, and Git setup
+
+---
+
+## 🏆 Awards & Certifications
+
+- AWS Certified Cloud Practitioner – *Issued Aug 2023*  
+- 2nd Prize – Campus DevOps Hackathon 2022  
+- Certified Kubernetes Application Developer (CKAD) – *In progress*
+
+---
+
+## 📌 Other Info
+
+- Strong interest in SRE, cloud-native technologies, and open-source contributions  
+- Comfortable working with Agile/Scrum teams and remote collaboration
