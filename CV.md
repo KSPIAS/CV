@@ -1,117 +1,95 @@
-<style>
-  /* สำหรับ Markdown PDF หรือ Markdown Preview Enhanced */
-  @page {
-    size: A4;
-    margin: 1in;
-  }
+# Kritsana Sonong
 
-  h1 {
-    font-size: 24pt;
-    margin-bottom: 0;
-  }
-
-  h2 {
-    font-size: 16pt;
-    margin-top: 1.2em;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 0.2em;
-  }
-
-  h3 {
-    font-size: 12pt;
-    margin-bottom: 0.2em;
-  }
-
-  p, li {
-    font-size: 11pt;
-    line-height: 1.5;
-  }
-
-  .break {
-    page-break-before: always;
-  }
-</style>
-
-# Kongpop Anankul
-**DevOps Engineer**  
-📧 kongpop.dev@gmail.com  📱 +66 80-888-1234  
-🌐 [github.com/kongpopdev](https://github.com/kongpopdev)  
-💼 [linkedin.com/in/kongpopdev](https://linkedin.com/in/kongpopdev)
+📞 096-791-7238 | ✉️ kritsanasonong@gmail.com  
+🐙 GitHub: [https://github.com/KSPIAS](https://github.com/KSPIAS)
 
 ---
 
-## 🎯 Career Objective
+## 📝 Summary
 
-Motivated DevOps Engineer with hands-on experience in CI/CD pipelines, infrastructure automation, and cloud systems. Passionate about building scalable, reliable, and secure platforms.
+Motivated and fast-learning individual with a strong interest in data processing, ETL pipelines, and backend development. Passionate about learning new technologies and applying them in real-world applications. Eager to contribute and grow in a collaborative tech-driven environment.
 
 ---
 
-## 🧠 Technical Skills
+## 🎓 Education
 
-- **Languages:** Bash, Python, YAML
-- **DevOps Tools:** Docker, Kubernetes, GitHub Actions, Jenkins
-- **Cloud:** AWS (EC2, S3, IAM, Lambda), GCP (basic)
-- **IaC:** Terraform, Ansible
-- **Monitoring:** Prometheus, Grafana, ELK Stack
+**Bachelor of Science in Computer Science**  
+[Your University Name], [City, Country]  
+*Graduated: YYYY*  **GPA:** X.XX / 4.00 *(if applicable)*
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Version Control:** Git, GitHub  
+- **Operating Systems:** Linux (Ubuntu), Windows  
+- **Development Tools:** Visual Studio Code, Jupyter Notebook
+
+---
+
+## 🗃️ Database and SQL Language
+
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Querying & Optimization:** SQL Joins, Aggregations, Indexing  
+- **Tools:** pgAdmin, DBeaver
+
+---
+
+## 🔄 ETL Tools
+
+- **Apache NiFi** – Build data flow pipelines  
+- **Pentaho Data Integration (Kettle)** – Visual ETL design  
+- **Airflow (basic)** – DAG-based task scheduling
+
+---
+
+## 💻 Programming Language
+
+- **Python** – Data manipulation, automation, scripting  
+- **SQL** – Relational data querying  
+- **JavaScript** *(basic)* – For frontend experiments
+
+---
+
+## 🧩 Other
+
+- Strong problem-solving skills  
+- Experience working on Linux-based systems  
+- Understanding of REST APIs & JSON  
+- Familiar with Agile & Git workflows
+
+---
+
+## 📚 Currently Learning
+
+- **Docker & Containerization**  
+- **Airflow for workflow orchestration**  
+- **Data Warehousing concepts (Star/Snowflake Schema)**
+
+---
+
+## 📦 GitHub Projects
+
+### 📌 [ETL-Automation-NiFi](https://github.com/KSPIAS/ETL-Automation-NiFi)  
+Automated data ingestion using Apache NiFi and transformation pipelines with monitoring.
+
+### 📌 [PostgreSQL-Query-Practice](https://github.com/KSPIAS/PostgreSQL-Query-Practice)  
+Real-world SQL queries for data analysis and business intelligence scenarios.
+
+### 📌 [Python-Script-Toolkit](https://github.com/KSPIAS/Python-Script-Toolkit)  
+Collection of reusable Python scripts for automation and file processing.
 
 ---
 
 ## 💼 Work Experience
 
-### DevOps Engineer – *CloudProTech Co., Ltd.*  
-**Jul 2022 – Present**  
-- Developed CI/CD pipelines using GitHub Actions and Jenkins
-- Maintained Kubernetes clusters on AWS
-- Automated infrastructure with Terraform
-- Improved deployment time by 35%
-
-### System Administrator Intern – *NetSecure Co., Ltd.*  
-**Jan 2022 – Mar 2022**  
-- Wrote scripts to automate server monitoring
-- Built Docker images for test environments
-- Assisted in server backup routines
-
----
-
-## 💡 Projects
-
-### KubeDeploy Dashboard  
-Dashboard for Kubernetes service deployment status.  
-- Built with React and Chart.js  
-- Integrated Prometheus metrics  
-- Exportable as PDF reports
-
-### Dotfiles Automation  
-Shell script for automated Linux environment setup.  
-- Supports Ubuntu & Arch  
-- Includes package installs and Git config
-
----
-
-<div class="break"></div>
-
-## 🎓 Education
-
-**B.Eng. in Computer Engineering**  
-Chiang Mai University (2018–2022)  
-**GPA:** 3.55 / 4.00
-
----
-
-## 🏆 Awards & Certifications
-
-- **AWS Certified Cloud Practitioner** (Aug 2023)  
-- 2nd Place – Campus DevOps Hackathon 2022  
-- CKAD – *In progress*
-
----
-
-## 📌 Soft Skills & Interests
-
-- Strong problem-solving and teamwork ability  
-- Enjoys learning cloud-native & SRE practices  
-- Active open-source contributor  
-- Languages: Thai (native), English (professional)
+### **Intern – Data Engineer**  
+*Company Name, Location*  
+*Jan 2024 – Apr 2024*  
+- Assisted in designing and managing ETL pipelines  
+- Developed scripts for data cleaning and transformation  
+- Worked with PostgreSQL and integrated external APIs  
+- Documented data workflows and prepared weekly reports
 
 ---
 
