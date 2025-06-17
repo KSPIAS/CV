@@ -1,3 +1,4 @@
+<img src="https://your-image-url.com/yourphoto.jpg" alt="Kritsana Sonong" width="120" style="border-radius: 50%; margin-bottom: 10px;" />
 # Kritsana Sonong
 
 📞 096-791-7238 | ✉️ kritsanasonong@gmail.com  
