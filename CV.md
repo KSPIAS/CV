@@ -1,76 +1,120 @@
-# Kongpop Anankul
+<style>
+  /* สำหรับ Markdown PDF หรือ Markdown Preview Enhanced */
+  @page {
+    size: A4;
+    margin: 1in;
+  }
 
-📧 kongpop.dev@gmail.com  
-📱 +66 80-888-1234  
+  h1 {
+    font-size: 24pt;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    font-size: 16pt;
+    margin-top: 1.2em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.2em;
+  }
+
+  h3 {
+    font-size: 12pt;
+    margin-bottom: 0.2em;
+  }
+
+  p, li {
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  .break {
+    page-break-before: always;
+  }
+</style>
+
+# Kongpop Anankul
+**DevOps Engineer**  
+📧 kongpop.dev@gmail.com  📱 +66 80-888-1234  
 🌐 [github.com/kongpopdev](https://github.com/kongpopdev)  
 💼 [linkedin.com/in/kongpopdev](https://linkedin.com/in/kongpopdev)
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Career Objective
 
-DevOps Engineer with a passion for cloud infrastructure, automation, and CI/CD. Experienced in managing Linux servers, deploying containerized applications, and maintaining high-availability systems using tools like Docker, Kubernetes, and GitHub Actions.
+Motivated DevOps Engineer with hands-on experience in CI/CD pipelines, infrastructure automation, and cloud systems. Passionate about building scalable, reliable, and secure platforms.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Technical Skills
 
-- **Languages:** Bash, Python, YAML  
-- **DevOps Tools:** Docker, Kubernetes, GitHub Actions, Jenkins, Helm  
-- **Cloud Platforms:** AWS (EC2, S3, Lambda, IAM), GCP (basic)  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
-- **Version Control:** Git, GitHub, GitLab CI
+- **Languages:** Bash, Python, YAML
+- **DevOps Tools:** Docker, Kubernetes, GitHub Actions, Jenkins
+- **Cloud:** AWS (EC2, S3, IAM, Lambda), GCP (basic)
+- **IaC:** Terraform, Ansible
+- **Monitoring:** Prometheus, Grafana, ELK Stack
 
 ---
 
 ## 💼 Work Experience
 
-### **DevOps Engineer**  
-**CloudProTech Co., Ltd.** — *Jul 2022 – Present*  
-- Designed and maintained CI/CD pipelines for multiple microservices using GitHub Actions and Jenkins  
-- Managed production Kubernetes clusters on AWS with auto-scaling and monitoring  
-- Implemented infrastructure as code (Terraform) for provisioning and deployment  
-- Ensured cloud security by configuring IAM roles and policies
+### DevOps Engineer – *CloudProTech Co., Ltd.*  
+**Jul 2022 – Present**  
+- Developed CI/CD pipelines using GitHub Actions and Jenkins
+- Maintained Kubernetes clusters on AWS
+- Automated infrastructure with Terraform
+- Improved deployment time by 35%
 
-### **System Administrator Intern**  
-**NetSecure Co., Ltd.** — *Jan 2022 – Mar 2022*  
-- Wrote shell scripts to automate daily server maintenance tasks  
-- Assisted in Docker container setup for staging environments  
-- Learned deployment practices and participated in CI testing pipelines
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Engineering**  
-Chiang Mai University, Thailand (2018 – 2022)  
-**GPA:** 3.55 / 4.00
+### System Administrator Intern – *NetSecure Co., Ltd.*  
+**Jan 2022 – Mar 2022**  
+- Wrote scripts to automate server monitoring
+- Built Docker images for test environments
+- Assisted in server backup routines
 
 ---
 
 ## 💡 Projects
 
-### **KubeDeploy Dashboard**  
-A dashboard to visualize the deployment status of services running on Kubernetes clusters.  
-- Built with React.js and Chart.js  
-- Integrated Prometheus API for real-time monitoring data
+### KubeDeploy Dashboard  
+Dashboard for Kubernetes service deployment status.  
+- Built with React and Chart.js  
+- Integrated Prometheus metrics  
+- Exportable as PDF reports
 
-### **Dotfiles Automation**  
-A set of shell scripts for setting up development environments on Ubuntu and Arch Linux.  
-- Included package installations, theme configurations, and Git setup
+### Dotfiles Automation  
+Shell script for automated Linux environment setup.  
+- Supports Ubuntu & Arch  
+- Includes package installs and Git config
+
+---
+
+<div class="break"></div>
+
+## 🎓 Education
+
+**B.Eng. in Computer Engineering**  
+Chiang Mai University (2018–2022)  
+**GPA:** 3.55 / 4.00
 
 ---
 
 ## 🏆 Awards & Certifications
 
-- AWS Certified Cloud Practitioner – *Issued Aug 2023*  
-- 2nd Prize – Campus DevOps Hackathon 2022  
-- Certified Kubernetes Application Developer (CKAD) – *In progress*
+- **AWS Certified Cloud Practitioner** (Aug 2023)  
+- 2nd Place – Campus DevOps Hackathon 2022  
+- CKAD – *In progress*
 
 ---
 
-## 📌 Other Info
+## 📌 Soft Skills & Interests
 
-- Strong interest in SRE, cloud-native technologies, and open-source contributions  
-- Comfortable working with Agile/Scrum teams and remote collaboration
+- Strong problem-solving and teamwork ability  
+- Enjoys learning cloud-native & SRE practices  
+- Active open-source contributor  
+- Languages: Thai (native), English (professional)
+
+---
+
+## 🔗 References
+
+Available upon request.
